@@ -1,0 +1,3 @@
+gitadd .
+git commit -m "Adding files"
+git pushorigin main
